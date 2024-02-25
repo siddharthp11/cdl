@@ -1,5 +1,8 @@
 # CDL
+A Bash script to quickly cycle through your directory structure using the command line. 
 
-Solves the following problem: 
-- achieve true command line speed
+## Usage
+- Add script directory to your `.bash_profile`.
+- Ensure `readarray` command is executable.
+- Run `cdl` in terminal.
 
